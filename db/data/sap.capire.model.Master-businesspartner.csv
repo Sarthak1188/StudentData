@@ -1,0 +1,6 @@
+NodeKey,BP_Role,EmailAddress,PhoneNumber,FAXNumber,Web_Address,BP_Id,Company_Name,Address_Guid_NodeKey
+bp1,CU,bp1@example.com,+911234567890,+911234567891,www.bp1.com,B001,Alpha Ltd,addr1
+bp2,SU,bp2@example.com,+911234567892,+911234567893,www.bp2.com,B002,Beta Pvt Ltd,addr2
+bp3,CU,bp3@example.com,+911234567894,+911234567895,www.bp3.com,B003,Gamma Inc,addr3
+bp4,SU,bp4@example.com,+911234567896,+911234567897,www.bp4.com,B004,Delta Ltd,addr4
+bp5,CU,bp5@example.com,+911234567898,+911234567899,www.bp5.com,B005,Epsilon Ltd,addr5

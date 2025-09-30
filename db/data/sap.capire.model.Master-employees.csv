@@ -1,0 +1,6 @@
+ID,nameFirst,nameMiddle,nameLast,nameInitials,sex,language,phoneNumber,email,loginName,salaryAmount,accountNumber,bankId,bankName
+emp1,John,A,Doe,JAD,M,E,+911234567890,john.doe@example.com,jdoe,50000,1234567890123456,0001,State Bank
+emp2,Jane,B,Smith,JBS,F,E,+911234567891,jane.smith@example.com,jsmith,60000,1234567890123457,0002,HDFC Bank
+emp3,Mike,C,Johnson,MCJ,M,E,+911234567892,mike.johnson@example.com,mjohnson,55000,1234567890123458,0003,ICICI Bank
+emp4,Sarah,D,Williams,SDW,F,E,+911234567893,sarah.williams@example.com,swilliams,65000,1234567890123459,0004,Kotak Bank
+emp5,Robert,E,Brown,REB,M,E,+911234567894,robert.brown@example.com,rbrown,52000,1234567890123460,0005,Axis Bank

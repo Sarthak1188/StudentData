@@ -1,0 +1,6 @@
+NodeKey,City,PostalCode,Street,Building,Country,Address_Type,Val_Start_Date,Val_End_Date,Latitude,Longitude,business_partner_NodeKey
+addr1,Delhi,110001,MG Road,B1,India,Home,2025-01-01,2025-12-31,28.6139,77.2090,bp1
+addr2,Mumbai,400001,Marine Dr,B2,India,Office,2025-01-01,2025-12-31,18.9388,72.8355,bp2
+addr3,Bangalore,560001,MG Road,B3,India,Home,2025-01-01,2025-12-31,12.9716,77.5946,bp3
+addr4,Chennai,600001,Anna Salai,B4,India,Office,2025-01-01,2025-12-31,13.0827,80.2707,bp4
+addr5,Hyderabad,500001,Hitech City,B5,India,Home,2025-01-01,2025-12-31,17.3850,78.4867,bp5

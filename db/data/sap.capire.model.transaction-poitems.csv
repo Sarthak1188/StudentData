@@ -1,0 +1,11 @@
+NODE_KEY,PARENT_KEY_NODE_KEY,PO_ITEM_POS,PRODUCT_GUID_NODEKEY
+poi1,po1,1,prod1
+poi2,po1,2,prod2
+poi3,po2,1,prod3
+poi4,po2,2,prod4
+poi5,po3,1,prod5
+poi6,po3,2,prod1
+poi7,po4,1,prod2
+poi8,po4,2,prod3
+poi9,po5,1,prod4
+poi10,po5,2,prod5
