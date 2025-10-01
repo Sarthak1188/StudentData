@@ -30,3 +30,4 @@ aspect addressData {
     City     : String;
     Country  : String;
 }
+
